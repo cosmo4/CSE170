@@ -1,1 +1,12 @@
-
+body {
+    text-align: center;
+    background-color: beige;
+  }
+  nav {
+    background-color: brown;
+    padding: 20px;
+  }
+  a {
+    color: white;
+    margin: 40px;
+  }
